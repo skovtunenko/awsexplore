@@ -1,3 +1,3 @@
 # awsexplore
 
-CLI tool to grab useful informtion from AWS services, like CloudFormation.
+CLI tool to grab useful information from *AWS* services, like CloudFormation.
